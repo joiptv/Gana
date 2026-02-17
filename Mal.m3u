@@ -1,12 +1,12 @@
-
-
 #EXTM3U
+
 
 #EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Entertainment",Asianet HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/443/gana-sunega/krish-ka/
 #EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
 https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/443/index.mpd
+
 #EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Movies",Asianet Movies HD
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/459/gana-sunega/krish-ka/
