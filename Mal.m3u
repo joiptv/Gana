@@ -1,0 +1,215 @@
+
+
+#EXTINF:-1 tvg-id="443" tvg-name="Asianet HD" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_HD.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Entertainment",Asianet HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/443/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/443/index.mpd
+#EXTINF:-1 tvg-id="459" tvg-name="Asianet Movies HD" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies_HD.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Movies",Asianet Movies HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/459/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/459/index.mpd
+
+
+#EXTINF:-1 tvg-id="731" tvg-name="Kairali WE TV" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kairali_WE_TV.png" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Entertainment",Kairali WE TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/731/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/731/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+
+
+#EXTINF:-1 tvg-id="41806" tvg-name="Asianet" tvg-logo="https://img.media.jio.com/tvpimages/23/82/302101_1753203237969_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Entertainment",Asianet
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/41806/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/41806/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1156" tvg-name="Asianet Movies" tvg-logo="https://img.media.jio.com/tvpimages/47/31/302099_1753203208252_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Movies",Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1156/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1156/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1077451856" tvg-name="Asianet Movies" tvg-logo="https://img10.hotstar.com/image/upload/f_auto,q_90,w_1920/sources/r1/cms/prod/7400/567400-h" group-title="JioHotstar⚜Movies" group-logo="https://img.hotstar.com/image/upload/v1737554969/web-assets/prod/images/rebrand/logo.png", Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://clearkey.joker-verse.workers.dev/license
+#EXTHTTP:{"Cookie":"hdntl=exp=1771415618~acl=/*~id=2b9ea1e4162b56c90fbdfce74bc20145~data=hdntl~hmac=54a96169c4e603f36f13385a5f6c78ad101c92bcf7310f82d84c8ea7adc5b9a0","Origin":"https://www.hotstar.com","Referer":"https://www.hotstar.com/","User-Agent":"Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)","X-User-Agent":"OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)"}
+https://livetv.hotstar.com/mp1/gec-india-1540057039/96454b89b9cd49df822108b6975a1a60/index.mpd|Cookie=hdntl=exp=1771415618~acl=/*~id=2b9ea1e4162b56c90fbdfce74bc20145~data=hdntl~hmac=54a96169c4e603f36f13385a5f6c78ad101c92bcf7310f82d84c8ea7adc5b9a0&Origin=https://www.hotstar.com&Referer=https://www.hotstar.com/&User-Agent=Hotstar;in.startv.hotstar/25.02.24.8.11169 (Android/15)&X-User-Agent=OTT Navigator/1.7.0.2.4 (Linux;Android 13; en; 1xp60xz)
+
+
+#EXTINF:-1 tvg-id="1153" tvg-name="Asianet Movies" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet_Movies.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Movies",Asianet Movies
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/1153/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1153/index.mpd
+#EXTINF:-1 tvg-id="1118" tvg-name="Asianet" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Asianet.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Entertainment",Asianet
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/1118/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1118/index.mpd
+
+
+#EXTINF:-1 tvg-id="1641" tvg-name="Zee Keralam HD" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Keralam_HD.png" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Entertainment",Zee Keralam HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1641/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1641/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+
+
+
+#EXTINF:-1 tvg-id="634" tvg-name="Flower TV" tvg-logo="https://img.media.jio.com/imagespublic/10/49/FlowerTV_1574670355976_tv.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Entertainment",Flower TV
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/634/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/634/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+
+#EXTINF:-1 tvg-id="844" tvg-name="Mazhavil Manorama HD" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mazavali_Manorama_HD.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Entertainment",Mazhavil Manorama HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/844/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/844/index.mpd
+
+
+#EXTINF:-1 tvg-id="648" tvg-name="Mazhavil Manorama" tvg-logo="https://img.media.jio.com/tvpimages/27/92/300079_1752854541918_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Entertainment",Mazhavil Manorama
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/648/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/648/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+
+#EXTINF:-1 tvg-id="300" tvg-name="Star Sports Select 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/96/65/302113_1753203781039_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports Select 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/300/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/300/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1123" tvg-name="Star Sports Select 1" tvg-logo="https://img.media.jio.com/tvpimages/13/82/301994_1753199406885_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports Select 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1123/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1123/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="301" tvg-name="Star Sports Select 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/98/79/302114_1753203828008_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports Select 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/301/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/301/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1114" tvg-name="Star Sports Select 2" tvg-logo="https://img.media.jio.com/tvpimages/98/48/301989_1749664475828_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports Select 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1114/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1114/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="4470" tvg-name="Star Sports 1 HD" tvg-logo="https://img.media.jio.com/tvpimages/76/32/301981_1749665664018_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/4470/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/4470/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1142" tvg-name="Star Sports 1" tvg-logo="https://img.media.jio.com/tvpimages/56/92/302115_1753188405640_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1142/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1142/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="174" tvg-name="Star Sports 1 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/5/6/301982_1749665314605_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/174/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/174/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="148" tvg-name="Star Sports 1 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/13/81/302112_1749665154709_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1 Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/148/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/148/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="4456" tvg-name="Star Sports 2 HD" tvg-logo="https://img.media.jio.com/tvpimages/41/51/301983_1749666169105_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2 HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/4456/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/4456/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1141" tvg-name="Star Sports 2" tvg-logo="https://img.media.jio.com/tvpimages/11/30/302116_1749666029079_l_medium.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1141/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1141/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1984" tvg-name="Star Sports 2 Hindi HD" tvg-logo="https://img.media.jio.com/tvpimages/56/36/301229_1742214332015_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2 Hindi HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1984/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1984/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1985" tvg-name="Star Sports 2 Hindi" tvg-logo="https://img.media.jio.com/tvpimages/57/17/302124_1749130246443_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2 Hindi
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1985/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1985/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="147" tvg-name="Star Sports 3" tvg-logo="https://img.media.jio.com/tvpimages/78/2/302117_1753186010525_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/147/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/147/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="4468" tvg-name="Star Sports 1 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/19/19/302122_1749662923298_l_medium.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1 Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/4468/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/4468/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="1124" tvg-name="Star Sports 1 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/69/73/301995_1749664384503_l_medium.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 1 Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/1124/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1124/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="4473" tvg-name="Star Sports 2 Tamil HD" tvg-logo="https://img.media.jio.com/tvpimages/50/43/302120_1753202207980_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2 Tamil HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/4473/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/4473/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+#EXTINF:-1 tvg-id="2853" tvg-name="Star Sports 2 Tamil" tvg-logo="https://img.media.jio.com/tvpimages/74/92/301561_1753188598351_l_high.jpg" group-title="◢◤ 𝐉𝐓𝐕 𝐏𝐋𝐔𝐒 ◢◤💠 -> Sports",Star Sports 2 Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://new-jiotvplus.cr7x.workers.dev/key/2853/gana-sunega/krish-ka
+https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/2853/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
+
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="DishTV⭐Movies",Movies Now HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/vunjev.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="DishTV⭐Movies",MNX HD
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
+
+#EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/leazcc.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="DishTV⭐Movies",MN+ HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
+#EXTINF:-1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="DishTV⭐Movies", Romedy Now
+https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
+
+
+===== Sony=====
+
+
+
+
+
+#EXTINF:-1 tvg-id="3372" tvg-name="SonyLIV Sports 1" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_1.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Sports",SonyLIV Sports 1
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/3372/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/3372/index.mpd
+#EXTINF:-1 tvg-id="3373" tvg-name="SonyLIV Sports 2" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_2.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Sports",SonyLIV Sports 2
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/3373/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/3373/index.mpd
+#EXTINF:-1 tvg-id="3374" tvg-name="SonyLIV Sports 3" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_3.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Sports",SonyLIV Sports 3
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/3374/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/3374/index.mpd
+#EXTINF:-1 tvg-id="3397" tvg-name="Sony LIV Sports 4 Tamil" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Tamil.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Sports",Sony LIV Sports 4 Tamil
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/3397/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/3397/index.mpd
+#EXTINF:-1 tvg-id="3398" tvg-name="Sony LIV Sports 4 Telugu" tvg-language="" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyLIV_Sports_4_Telugu.png" group-logo="https://camo.githubusercontent.com/bdc4e856e98e6f7f88380d041ac4313ce700b24003d5ba4ea98d249a9eef28a8/68747470733a2f2f692e6962622e636f2f42636a433652382f6a696f74762e706e67" group-title="𝓙🎵Sports",Sony LIV Sports 4 Telugu
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://jplus.cr7x.workers.dev/key/3398/gana-sunega/krish-ka/
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 12) ExoPlayerLib/2.11.7
+https://jplus.cr7x.workers.dev/live/gana-sunega/krish-ka/3398/index.mpd
