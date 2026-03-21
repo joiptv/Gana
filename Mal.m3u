@@ -151,6 +151,13 @@ https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1110/index.mpd|
 https://new-jiotvplus.cr7x.workers.dev/live/gana-sunega/krish-ka/1115/index.mpd|User-Agent=JioTV.Plus%2F2.1.0_3012%20(Linux%3BAndroid%2010)%20ExoPlayerLib%2F2.18.1
 
 
+#EXTINF:-1 tvg-id="HBO" group-title="Astro GO" tvg-logo="https://linear-poster.astro.com.my/prod/logo/HBO_v1.png",HBO
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c2b7a1e95d4f4c3a8e617f9d0a2b6c18:27fca1ab042998b0c2f058b0764d7ed4
+https://qp-pldt-live-bpk-02-prod.akamaized.net/bpk-tv/cg_hbohd/default/index.mpd
+
+
 #EXTINF:-1 tvg-logo="https://d229kpbsb5jevy.cloudfront.net/timesplay/content/common/logos/channel/logos/wthfwe.jpeg" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="Movies",Movies Now HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
