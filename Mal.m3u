@@ -171,51 +171,9 @@ https://times-ott-live.akamaized.net/mnplus_wv_drm/index.mpd
 #EXTINF:-1 tvg-id="ts174" tvg-logo="https://tatalogo.pages.dev/174.png" group-logo="https://upload.wikimedia.org/wikipedia/commons/1/19/DishTV_logo_%282025%29.svg" group-title="Movies", Romedy Now
 https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"8/hCxUzJbLvQvLlqTLioEw", "kid":"oJiJbSsRxfOQapk8O6XGEA" } ], "type":"temporary" }
-#EXTINF:-1  tvg-id="HBO" tvg-name="HBO HD" group-title="Movies" group-logo="https://astrogo.astro.com.my/staticFiles/images/icons/astroLogoNew.png" tvg-logo="https://ws.kapallayar.cc//image//Logo//ENT//New//E_HBO.png",411 HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 12; M2012K11AC Build/SKQ1.211006.001; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/96.0.4664.104 Mobile Safari/537.36
-https://linearjitp-playback.astro.com.my/dash-wv/linear/2304/default_ott.mpd
 
 #EXTINF:-1 tvg-id="sony-pix-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/PIX%20HD_WHITE.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title=" Movies",Sony PIX HD
 https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-pix-hd.m3u8
 
 ===== Sony=====
-
-
-#EXTINF:-1 tvg-id="sony-bbc-earth-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SBBCE_LOGO_NEW_PNG.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Infotainment",Sony BBC Earth HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-bbc-earth-hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-1" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_SD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 1
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-1.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_SD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 2
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-2.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 3
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-3.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Tamil.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 4
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-4.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_SD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 5
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-5.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-1-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 1 HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-1-hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-2-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 2 HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-2-hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-3-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_3_Hindi_HD.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 3 HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-3-hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-4-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/Sony_Sports_Ten_4_Telugu.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 4 HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-4-hd.m3u8
-
-#EXTINF:-1 tvg-id="sony-ten-5-hd" tvg-logo="https://oriby-streaming-proxy.sultanarabi161.workers.dev/https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen5_HD_Logo_CLR.png" group-logo="https://www.sonypicturesnetworks.com/images/logos/Sony_LIV.png" group-title="SONYLIV ✨ Sports",Sony Sports Ten 5 HD
-https://sonyliv.cr7x.workers.dev/live/gana-sunega/krish-ka/sony-ten-5-hd.m3u8
-
 
