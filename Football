@@ -1,0 +1,56 @@
+[
+  {
+    "name": "ZEE Hindi SD",
+    "group": "FIFA 2026",
+    "logo": "https://i.ibb.co/LhzS238k/unite8.png",
+    "mpd_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/NGCHD/default/index.m3u8.m3u8?sessionid=yupptvott_5_496800_0ec648f6-ec2d-e22c-d4db-fbf43344897f_IN_152.58.183.45_dishtv_1_channel_73_-1&token=st=1781417220~exp=1781503620~hmac=7f69b4ba76cfb5bc75e7cd41daa2ee4c1f42c014342a5b43c6faad28b31e979c|User-Agent=plaYtv/7.1.5 (Linux;Android 15)"
+  },
+  {
+    "name": "ZEE Bangla SD",
+    "group": "FIFA 2026",
+    "logo": "https://i.ibb.co/LhzS238k/unite8.png",
+    "mpd_url": "https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/index.m3u8?sessionid=yupptvott_5_496800_0ec648f6-ec2d-e22c-d4db-fbf43344897f_IN_152.58.183.45_dishtv_1_channel_94_-1&token=st=1781417306~exp=1781503706~hmac=21caffce37046b96cc7870bf5d5e6682a1757406a6c5c7cd115b32c7ba7518af|User-Agent=plaYtv/7.1.5 (Linux;Android 15)"
+  },
+  {
+    "name": "ZEE Malayalam SD",
+    "group": "FIFA 2026",
+    "logo": "https://i.ibb.co/LhzS238k/unite8.png",
+    "mpd_url": "https://uplink.lazyspace.online/mytv/tplay/stream.php?id=ts684|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36"
+  },
+  {
+    "name": "CIGNAL TV",
+    "group": "FIFA 2026",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnUaqC49i0JOK8BucsLMLD9qoHcxMOScgGzA&s",
+    "mpd_url": "https://qp-pldt-live-bpk-ucd-prod.akamaized.net/bpk-tv/ch299/default/index.mpd?|User-Agent=plaYtv/7.1.5 (Linux;Android 15)&drmScheme=clearkey&drmLicense=549ab7cd35a64bb6bb479ecead04d69d:829799ed534d11fcadeb4b192467e050"
+  },
+  {
+    "name": "Caze TV",
+    "group": "FIFA 2026",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-g_oqw3KHWjc9FwjFatYJ0xau4q2bOJ3ZHjY9_3fOiA7dnflIHQQRZU64&s=10",
+    "mpd_url": "https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/1080p-vtt/index.m3u8|User-Agent=plaYtv/7.1.5 (Linux;Android 15)"
+  },
+  {
+    "name": "D Sports",
+    "group": "FIFA 2026",
+    "logo": "https://res.cloudinary.com/dlzxf85nw/image/upload/q_auto/f_auto/v1781169649/dsports_wxvwta.png",
+    "mpd_url": "https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ubehitlwzo/out/v1/8e09c381a51f4366a19e979418112e8f/cenc.mpd?|User-Agent=plaYtv/7.1.5 (Linux;Android 15)&drmScheme=clearkey&drmLicense=a7d11d37a1f7611ee88d4db880171f32:68f96d618b0b956b008c445896a25a79"
+  },
+  {
+    "name": "TELEMUNDO",
+    "group": "FIFA 2026",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOZaCQC3y3vyoMF_kkXLOiNcGrfA2XhKGlAA&s",
+    "mpd_url": "https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s-v2/Live/channel(kvea)/master.mpd?|User-Agent=plaYtv/7.1.5 (Linux;Android 15)&drmScheme=clearkey&drmLicense=ce7ab3022e753307997f58afe001bac4:72d631a66e635c60829a0fe7705516c1"
+  },
+  {
+    "name": "France TV",
+    "group": "FIFA 2026",
+    "logo": "https://cdn.broadbandtvnews.com/wp-content/uploads/2023/04/03121900/France-TV-logo-2023.jpg",
+    "mpd_url": "https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd?|User-Agent=plaYtv/7.1.5 (Linux;Android 15)&drmScheme=clearkey&drmLicense=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3"
+  },
+  {
+    "name": "Fussball TV 1",
+    "group": "FIFA 2026",
+    "logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREBFqXw3-lP2zVdBuyqf-d0gB5ELqP49SPSg&s",
+    "mpd_url": "https://xtream.lazyspace.online/uplink/play/742610/lmND4qC9ustQ/live.m3u8|User-Agent=plaYtv/7.1.5 (Linux;Android 15)"
+  }
+]
