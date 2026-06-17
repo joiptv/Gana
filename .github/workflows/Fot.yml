@@ -1,0 +1,46 @@
+name: Football
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+concurrency:
+  group: playlist-update
+  cancel-in-progress: true
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.x'
+
+      - name: Download Playlist
+        run: |
+          curl -L \
+            "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/papaos.m3u8" \
+            -o Football
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add Football
+
+          if git diff --staged --quiet; then
+            echo "No changes detected."
+          else
+            git commit -m "chore: update Football"
+            git pull --rebase origin main
+            git push origin main
+          fi
