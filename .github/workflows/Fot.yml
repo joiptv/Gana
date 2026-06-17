@@ -19,28 +19,22 @@ jobs:
         with:
           fetch-depth: 0
 
-      - name: Set up Python
-        uses: actions/setup-python@v5
-        with:
-          python-version: '3.x'
-
       - name: Download Playlist
         run: |
-          curl -L \
-            "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/papaos.m3u8" \
-            -o Football
+          curl -L "https://raw.githubusercontent.com/opensourceflix/OpenSourceFlix/refs/heads/main/papaos.m3u8" \
+            -o Football.m3u
 
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
 
-          git add Football
+          git add Football.m3u
 
           if git diff --staged --quiet; then
             echo "No changes detected."
           else
-            git commit -m "chore: update Football"
+            git commit -m "Update Football.m3u"
             git pull --rebase origin main
             git push origin main
           fi
