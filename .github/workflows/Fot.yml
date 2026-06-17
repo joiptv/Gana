@@ -1,1 +1,36 @@
+name: Update Football Playlist
+
+on:
+  schedule:
+    - cron: '*/30 * * * *' # Runs every 30 minutes
+  workflow_dispatch: # Allows you to trigger it manually
+
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download Playlist
+        run: |
+          curl -o Football.m3u "http://202.70.146.135:8000/playlist.m3u8"
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          
+          # Add only the Football.m3u file to the commit
+          git add Football.m3u
+          
+          # Check for changes before committing to avoid errors
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Football playlist"
+          
+          # Push the changes back to your repository
+          git push
 
