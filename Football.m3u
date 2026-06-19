@@ -79,6 +79,8 @@ http://202.70.146.135:8000/play/a02t/index.m3u8
 http://202.70.146.135:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="-",Sports 18 3 - Rs 4.00
 http://202.70.146.135:8000/play/a026/index.m3u8
+#EXTINF:-1 group-title="-",Star Bharat HD
+http://202.70.146.135:8000/play/a09v/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2 - Rs 3.00
 http://202.70.146.135:8000/play/a02d/index.m3u8
 #EXTINF:-1 group-title="-",Star Gold 2 HD - Rs 5.00
@@ -106,11 +108,9 @@ http://202.70.146.135:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",Travelxp HD - Rs 9.00
 http://202.70.146.135:8000/play/a04o/index.m3u8
 #EXTINF:-1 group-title="-",Unite8 Sports 1 HD - Rs 9.00
-http://202.70.146.135:8000/play/a09x/index.m3u8
+http://202.70.146.135:8000/play/a125/index.m3u8
 #EXTINF:-1 group-title="-",Unite8 Sports 2 HD - Rs 11.00
-http://202.70.146.135:8000/play/a09v/index.m3u8
-#EXTINF:-1 group-title="-",Unite8 Sports 2 HD - Rs 11.00
-http://202.70.146.135:8000/play/a09w/index.m3u8
+http://202.70.146.135:8000/play/a126/index.m3u8
 #EXTINF:-1 group-title="-",Vijay Super - Rs 10.00
 http://202.70.146.135:8000/play/a008/index.m3u8
 #EXTINF:-1 group-title="-",Zee Cafe HD - Rs 10.00
