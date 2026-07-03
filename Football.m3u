@@ -7,8 +7,12 @@ http://202.70.146.135:8000/play/a06n/index.m3u8
 http://202.70.146.135:8000/play/a06b/index.m3u8
 #EXTINF:-1 group-title="-",&tv HD - Rs 19.00
 http://202.70.146.135:8000/play/a06c/index.m3u8
+#EXTINF:-1 group-title="-",Animal Planet HD  - Rs 5.00
+http://202.70.146.135:8000/play/a0aa/index.m3u8
 #EXTINF:-1 group-title="-",CBeebies - Rs 3.00
 http://202.70.146.135:8000/play/a0a2/index.m3u8
+#EXTINF:-1 group-title="-",Cartoon Network - Rs 5.00
+http://202.70.146.135:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.00
 http://202.70.146.135:8000/play/a0a3/index.m3u8
 #EXTINF:-1 group-title="-",Colors Cineplex - Rs 19.00
@@ -17,12 +21,16 @@ http://202.70.146.135:8000/play/a01b/index.m3u8
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="-",Colors HD - Rs 19.00
 http://202.70.146.135:8000/play/a00b/index.m3u8
+#EXTINF:-1 group-title="-",Colors Infinity HD - Rs 15.00
+http://202.70.146.135:8000/play/a0ab/index.m3u8
 #EXTINF:-1 group-title="-",Colors Tamil HD - Rs 7.00
 http://202.70.146.135:8000/play/a06o/index.m3u8
 #EXTINF:-1 group-title="-",D Tamil - Rs 3.50
 http://202.70.146.135:8000/play/a054/index.m3u8
 #EXTINF:-1 group-title="-",Discovery HD - Rs 8.00
 http://202.70.146.135:8000/play/a05z/index.m3u8
+#EXTINF:-1 group-title="-",Discovery Kids - Rs 4.00
+http://202.70.146.135:8000/play/a0a6/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Science - Rs 1.00
 http://202.70.146.135:8000/play/a060/index.m3u8
 #EXTINF:-1 group-title="-",Discovery Turbo - Rs 1.00
@@ -47,6 +55,8 @@ http://202.70.146.135:8000/play/a05j/index.m3u8
 http://202.70.146.135:8000/play/a04c/index.m3u8
 #EXTINF:-1 group-title="-",Nick Jr. - Rs 1.00
 http://202.70.146.135:8000/play/a02n/index.m3u8
+#EXTINF:-1 group-title="-",Pogo - Rs 5.00
+http://202.70.146.135:8000/play/a0a7/index.m3u8
 #EXTINF:-1 group-title="-",Romedy Now - Rs 5.00
 http://202.70.146.135:8000/play/a05x/index.m3u8
 #EXTINF:-1 group-title="-",SET HD - Rs 19.00
@@ -73,6 +83,8 @@ http://202.70.146.135:8000/play/a06q/index.m3u8
 http://202.70.146.135:8000/play/a009/index.m3u8
 #EXTINF:-1 group-title="-",Sonic - Rs 1.00
 http://202.70.146.135:8000/play/a02t/index.m3u8
+#EXTINF:-1 group-title="-",Sony Pal - Rs 0
+http://202.70.146.135:8000/play/a0ac/index.m3u8
 #EXTINF:-1 group-title="-",Sports 18 - 1 HD - Rs 19.00
 http://202.70.146.135:8000/play/a04b/index.m3u8
 #EXTINF:-1 group-title="-",Sports 18 3 - Rs 4.00
@@ -101,6 +113,8 @@ http://202.70.146.135:8000/play/a03c/index.m3u8
 http://202.70.146.135:8000/play/a03e/index.m3u8
 #EXTINF:-1 group-title="-",Sun Music HD - Rs 19.00
 http://202.70.146.135:8000/play/a06k/index.m3u8
+#EXTINF:-1 group-title="-",Super Hungama - Rs 4.00
+http://202.70.146.135:8000/play/a0a4/index.m3u8
 #EXTINF:-1 group-title="-",TLC HD - Rs 3.00
 http://202.70.146.135:8000/play/a05i/index.m3u8
 #EXTINF:-1 group-title="-",Travelxp HD - Rs 9.00
