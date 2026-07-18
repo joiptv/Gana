@@ -15,6 +15,8 @@ http://202.70.146.135:8000/play/a0a2/index.m3u8
 http://202.70.146.135:8000/play/a0a8/index.m3u8
 #EXTINF:-1 group-title="-",Cartoon Network HD+ - Rs 7.00
 http://202.70.146.135:8000/play/a0a3/index.m3u8
+#EXTINF:-1 group-title="-",Channel 100
+http://202.70.146.135:8000/play/a0ad/index.m3u8
 #EXTINF:-1 group-title="-",Colors Cineplex Bollywood - Rs 0.10
 http://202.70.146.135:8000/play/a058/index.m3u8
 #EXTINF:-1 group-title="-",Colors HD - Rs 19.00
