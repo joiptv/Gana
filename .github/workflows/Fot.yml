@@ -26,8 +26,9 @@ jobs:
           # 2. Add the required M3U header to your new file
           echo "#EXTM3U" > liv.m3u
           
-          # 3. Extract only the lines with the "jiotv" tag (and the URL below them) into the file
-          grep -i -A 1 "jiotv" full_playlist.m3u | grep -v "^--$" >> liv.m3u
+          # 3. Extract only the lines with the "jiotv" tag. 
+          # The "|| true" prevents the workflow from failing if no matches are found.
+          grep -i -A 1 "jiotv" full_playlist.m3u | grep -v "^--$" >> liv.m3u || true
           
       - name: Commit and Push Changes
         run: |
