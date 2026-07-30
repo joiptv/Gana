@@ -18,7 +18,7 @@ jobs:
 
       - name: Download Playlist
         run: |
-          curl -o Football.m3u "http://202.70.146.135:8000/playlist.m3u8"
+          curl -o Football.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
 
       - name: Commit and Push Changes
         run: |
