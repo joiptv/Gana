@@ -1,9 +1,9 @@
-name: Update Football Playlist
+name: Extract and Update Playlist
 
 on:
   schedule:
     - cron: '*/30 * * * *' # Runs every 30 minutes
-  workflow_dispatch: # Allows you to trigger it manually
+  workflow_dispatch: # Allows manual triggering
 
 permissions:
   contents: write
@@ -16,25 +16,30 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
         with:
-          fetch-depth: 0 # Fetches full history, which helps prevent rebase conflicts
+          fetch-depth: 0 # Fetches history to prevent push rejections
 
-      - name: Download Playlist
+      - name: Download and Extract Playlist
         run: |
-          curl -o Football.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
+          # 1. Download the full master playlist
+          curl -s -o full_playlist.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
+          
+          # 2. Add the required M3U header to your new file
+          echo "#EXTM3U" > liv.m3u
+          
+          # 3. Extract only the lines with the "jiotv" tag (and the URL below them) into the file
+          grep -i -A 1 "jiotv" full_playlist.m3u | grep -v "^--$" >> liv.m3u
           
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Add only the Football.m3u file to the commit
-          git add Football.m3u
+          # Add the new playlist file to the commit
+          git add liv.m3u
           
-          # Check for changes before committing to avoid errors
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Football playlist"
+          # Commit the changes only if there are updates
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update liv.m3u playlist"
           
-          # Pull the latest changes from the remote to sync before pushing
+          # Safely pull any new remote changes first, then push
           git pull --rebase origin main
-          
-          # Push the changes back to your repository
           git push
