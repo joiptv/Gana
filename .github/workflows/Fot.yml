@@ -1,4 +1,4 @@
-name: Extract and Update Playlist
+name: Update Playlist
 
 on:
   schedule:
@@ -18,28 +18,21 @@ jobs:
         with:
           fetch-depth: 0 # Fetches history to prevent push rejections
 
-      - name: Download and Extract Playlist
+      - name: Download Full Playlist
         run: |
-          # 1. Download the full master playlist
-          curl -s -o full_playlist.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
-          
-          # 2. Add the required M3U header to your new file
-          echo "#EXTM3U" > liv.m3u
-          
-          # 3. Extract only the lines with the "jiotv" tag. 
-          # The "|| true" prevents the workflow from failing if no matches are found.
-          grep -i -A 1 "jiotv" full_playlist.m3u | grep -v "^--$" >> liv.m3u || true
+          # Download the entire original playlist and save it directly as liv.m3u
+          curl -s -o liv.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
           
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "41898282+github-actions[bot]@users.noreply.github.com"
           
-          # Add the new playlist file to the commit
+          # Add the full playlist file to the commit
           git add liv.m3u
           
           # Commit the changes only if there are updates
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update liv.m3u playlist"
+          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update liv.m3u with full playlist"
           
           # Safely pull any new remote changes first, then push
           git pull --rebase origin main
