@@ -15,11 +15,13 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # Fetches full history, which helps prevent rebase conflicts
 
       - name: Download Playlist
         run: |
           curl -o Football.m3u "https://clarity-tv.vercel.app/api/playlist/?id=ALLINONE"
-
+          
       - name: Commit and Push Changes
         run: |
           git config --global user.name "github-actions[bot]"
@@ -31,6 +33,8 @@ jobs:
           # Check for changes before committing to avoid errors
           git diff --quiet && git diff --staged --quiet || git commit -m "Auto-update Football playlist"
           
+          # Pull the latest changes from the remote to sync before pushing
+          git pull --rebase origin main
+          
           # Push the changes back to your repository
           git push
-
